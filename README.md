@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Hernandez</h1>
-#### Design and Development
+## Design and Development
 
 <h3 align="center">A passionate FULLSTACK developer from Peru</h3>
 I'm Diego from Peru. I really enjoy learning languages and frameworks like React. I also enjoy creating websites, ui, ux, and design in general. 
