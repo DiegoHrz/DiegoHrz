@@ -3,7 +3,6 @@
 
 I'm Diego from Peru. I really enjoy learning languages and frameworks like React. I also enjoy creating websites, ui, ux, and design in general. 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DiegoHrz)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills and Experience
 * ⚛ React, Next 
