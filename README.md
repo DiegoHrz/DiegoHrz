@@ -5,7 +5,10 @@ I'm Diego from Peru. I really enjoy learning languages and frameworks like React
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DiegoHrz)](https://github.com/anuraghazra/github-readme-stats)
 
-Skills: REACT / JS / HTML / CSS
+## Skills and Experience
+* ⚛ React, Next 
+* ⌨️ Node, Express Postgres
+* 💻 HTML, CSS, JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DiegoHrz)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com)  
