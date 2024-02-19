@@ -16,7 +16,7 @@ I'm Diego from Peru. I really enjoy learning languages and frameworks like React
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegohrz&label=Profile%20views&color=0e75b6&style=flat" alt="diegohrz" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegohrz" alt="diegohrz" /></a> </p>
 
