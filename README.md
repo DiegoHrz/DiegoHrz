@@ -30,6 +30,6 @@ I'm Diego from Peru. I really enjoy learning languages and frameworks like React
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegohrz&show_icons=true&locale=en&layout=compact" alt="diegohrz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegohrz&show_icons=true&locale=en" alt="diegohrz" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegohrz&" alt="diegohrz" /></p>
