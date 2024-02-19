@@ -28,4 +28,3 @@ I'm Diego from Peru. I really enjoy learning languages and frameworks like React
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegohrz&" alt="diegohrz" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegohrz" alt="diegohrz" /></a> </p>
