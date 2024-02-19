@@ -1,6 +1,7 @@
-### Hi there 👋, Diego Hernandez
+<h1 align="center">Hi 👋, I'm Diego Hernandez</h1>
 #### Design and Development
 
+<h3 align="center">A passionate FULLSTACK developer from Peru</h3>
 I'm Diego from Peru. I really enjoy learning languages and frameworks like React. I also enjoy creating websites, ui, ux, and design in general. 
 
 
@@ -14,8 +15,6 @@ I'm Diego from Peru. I really enjoy learning languages and frameworks like React
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/diego-hern%C3%A1ndez/)  
 
 
-<h1 align="center">Hi 👋, I'm Diego Hernandez</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegohrz&label=Profile%20views&color=0e75b6&style=flat" alt="diegohrz" /> </p>
 
