@@ -26,8 +26,6 @@ I'm Diego from Peru. I really enjoy learning languages and frameworks like React
 <br>
 <br>
 
-<br>
-<br>
 
 <div>
 <h3 align="left">Connect with me:</h3>
