@@ -40,7 +40,7 @@ I'm Diego from Peru. I really enjoy learning languages and frameworks like React
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diego hernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego hernández" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diego-hz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego hernández" height="30" width="40" /></a>
 </p>
   
 </div>
