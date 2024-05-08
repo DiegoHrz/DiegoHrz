@@ -18,7 +18,7 @@ I'm Diego from Peru. I really enjoy learning languages and frameworks like React
 
 ## Languages and Tools:
 
-<span><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=diegohrz&show_icons=true&locale=en&layout=compact" alt="diegohrz" /><br></span>  
+  
 <span align="left" display="flex" gap="10px" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
