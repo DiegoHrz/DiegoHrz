@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego Hernandez</h1>
+<h1 align="center">Hi, I'm Diego</h1>
 
 ## Design and Development
 
@@ -39,8 +39,8 @@ I'm Diego from Peru. I really enjoy learning languages and frameworks like React
 <br>
 <div>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="https://www.linkedin.com/in/diego-hz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego hernández" height="30" width="40" /></a>
-</p>
+</p> -->
   
 </div>
